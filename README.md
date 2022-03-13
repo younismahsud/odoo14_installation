@@ -48,7 +48,7 @@ pip3 install -r odoo/requirements.txt
 ```
 nano odoo.conf
 ```
-Paste the code of the configuration file and make the required changes as I explained in the video on Odoo Discussions youtube channel.
+Copy and paste the code of the [Configuration file](https://github.com/younismahsud/odoo14_configuration_file) and make the required changes as I explained in the video on Odoo Discussions youtube channel.
 Exit `odoov14` user by executing `exit` command
 #### Step #12: Install supervisor
 ```
