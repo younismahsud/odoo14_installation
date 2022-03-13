@@ -34,7 +34,7 @@ sudo su odoov14
 ```
 #### Step #8: Clone/Download odoo 14 source code
 ```
-sudo git clone https://www.github.com/odoo/odoo --depth 1 --branch 14.0 /opt/odoov14/odoo
+git clone https://www.github.com/odoo/odoo --depth 1 --branch 14.0 /opt/odoov14/odoo
 ```
 #### Step #9: Move to Odoo 14 directory
 ```
