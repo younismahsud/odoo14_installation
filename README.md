@@ -68,8 +68,8 @@ sudo supervisorctl update
 sudo service supervisor stop
 sudo service supervisor start
 ```
-Now open your browser and visit http://server_id:8014/web
-Now you can restart odoo using the following command
+Now open your browser and visit http://server_ip:8014/web.
+#### Step #16: Restart Odoo Service
 ```
 sudo supervisorctl restart odoov14
 ```
